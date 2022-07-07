@@ -5,7 +5,7 @@ const Footer = () => {
     <Wrapper>
       <div>
         <p>
-          Lacrei Saúde <br /> A plataforma de <br /> contato@lacreisaude.com.br
+          Lacrei Saúde <br /> A plataforma de inclusão social LGBTQIA+ <br /> contato@lacreisaude.com.br
         </p>
       </div>
       <div>
